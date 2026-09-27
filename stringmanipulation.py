@@ -13,4 +13,4 @@ c, s = cipher(msg)
 print(c, s)
 print(decipher(c, s))
 
-#https://github.com/AReverri/SSW540/stringmanipulation.py
+#https://github.com/AReverri/SSW540/blob/main/stringmanipulation.py
